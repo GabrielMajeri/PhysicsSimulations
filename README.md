@@ -4,9 +4,12 @@ This repository contains simulations of several well-known physical systems. It'
 
 ## Available simulations
 
+These are all presented in detalied [Jupyter Notebooks](https://jupyter.org/), which can be found in the [`notebooks`](notebooks) directory:
+
 - Free-falling object in a constant gravitational field
 - Simple pendulum (simple harmonic oscillator)
 - Driven harmonic oscillator
+- Waves (based on the wave equation)
 
 ## License
 
