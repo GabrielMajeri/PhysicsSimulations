@@ -1,3 +1,15 @@
+## This file tells Git which paths to exclude from version control, see:
+## https://git-scm.com/docs/gitignore
+
+# Python virtual environment directory
 venv/
 .venv/
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Mac OS system files
+.DS_Store
+
+# Animations
+*.gif
